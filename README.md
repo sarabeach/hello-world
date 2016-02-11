@@ -1,2 +1,2 @@
 # hello-world
-jsut learning
+just learning
